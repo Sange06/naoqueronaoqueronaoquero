@@ -13,3 +13,9 @@ margin-top:10px;
 display: flex;
 flex-direction: column;
 }
+.opcoes-acessibilidade button{
+margin-bottom: 5px;
+}
+  .apresenta-lista{
+display: none;
+}
